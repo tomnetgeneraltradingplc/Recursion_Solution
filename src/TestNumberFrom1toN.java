@@ -17,3 +17,11 @@ public class TestNumberFrom1toN {
         }
     }
 }
+/*
+Output
+------------
+1
+2
+3
+4
+ */
